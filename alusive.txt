@@ -883,7 +883,7 @@ function u864.create_ui(u876)
     r47.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", u824.FontWeight.Bold)
     r47.TextColor3 = u877.Accent
     r47.TextTransparency = 0.05
-    r47.Text = "Allusive"
+    r47.Text = "Mind hub"
     r47.Name = "ClientName"
     r47.Size = u821.new(0, 68, 0, 14)
     r47.AnchorPoint = Vector2.new(0, 0.5)
